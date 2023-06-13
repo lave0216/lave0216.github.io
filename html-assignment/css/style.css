@@ -25,6 +25,7 @@ p{
     box-shadow: 2px 1px;
 }
 
+
 li:nth-child(Odd){
     background-color: bisque;
 }
